@@ -1,6 +1,7 @@
 import NavBar from "@/app/components/NavBar"
 import Header from "@/app/components/Header"
 import RestaurantCard from "./components/RestaurantCard"
+import './globals.css'
 
 export default function Home() {
   return (
